@@ -8,3 +8,5 @@
 - Flood:
   - Duration: 2019-03-14 3am to 2019-03-20 3am
   - Frequency: 5 minutes
+
+![Mozambique 2019 DEM](Mozambique_2019/DEM.png)
