@@ -5,7 +5,7 @@
 - Rainfall: 
   - Duration: 2019-03-14 3am to 2019-03-20 3am
   - Frequency: 30 minutes
-  - Name Convention: "}YYYYMMDD}-S{hhmmss}.tif"
+  - Name Convention: f"{YYYYMMDD}-S{hhmmss}.tif"
 - Flood:
   - Duration: 2019-03-14 3am to 2019-03-20 3am
   - Frequency: 5 minutes
